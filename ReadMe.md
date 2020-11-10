@@ -2,7 +2,7 @@
 
 It's a selenium based twitter client that you can post tweets with.  
 It's aimed for bot accounts without API keys.  
-If all you want to do is to post stuff, then this is the right tool for you.
+If all you want to do is to post stuff, then this is the right tool for you.  
 I hope to improve it as the time goes on, it works in a very basic way as of right now.
 
 # Usage
